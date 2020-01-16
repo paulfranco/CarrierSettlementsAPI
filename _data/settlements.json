@@ -1,0 +1,14 @@
+[
+  {
+    "settlementNumber": "AMERICA-01012019",
+    "periodEnding": "01-07-2019",
+    "periodStart": "01-01-2019",
+    "status": ["Paid"],
+    "payDate": "01-15-2019",
+    "checkNumber": "55555",
+    "settlementAmount": "2000.50",
+    "routeCount": "5",
+    "stopCount": "50",
+    "carrier": "5e1908bb15fb2f17171b5664"
+  }
+]

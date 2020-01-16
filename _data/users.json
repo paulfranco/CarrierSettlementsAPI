@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "5e1aefe8e49ee92468a44c04",
+    "firstName": "Paul",
+    "lastName": "Franco",
+    "email": "paul@paulfranco.com",
+    "password": "qwerty",
+    "role": "staff"
+  },
+  {
+    "_id": "5e1aefe8e49ee92468a44c07",
+    "firstName": "Ira",
+    "lastName": "Franco",
+    "email": "ira@paulfranco.com",
+    "password": "qwerty",
+    "role": "user"
+  },
+  {
+    "_id": "5e1aefe8e49ee92468a44c08",
+    "firstName": "Rocky",
+    "lastName": "Franco",
+    "email": "rocky@paulfranco.com",
+    "password": "qwerty",
+    "role": "user"
+  },
+  {
+    "_id": "5e1aefe8e49ee92468a44c09",
+    "firstName": "jesus",
+    "lastName": "Franco",
+    "email": "jesus@paulfranco.com",
+    "password": "qwerty",
+    "role": "staff"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Chargeback 101010",
+    "text": "There was a $30 chargeback",
+    "settlement": "5e1bf5dc4aa72d2c2f1b7404",
+    "user": "5e1aefe8e49ee92468a44c04"
+  },
+  {
+    "title": "Admin Fee",
+    "text": "There was a $100 admin fee",
+    "settlement": "5e1bf5dc4aa72d2c2f1b7404",
+    "user": "5e1aefe8e49ee92468a44c04"
+  }
+]
