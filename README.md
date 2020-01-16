@@ -23,6 +23,6 @@ npm run dev
 npm start
 ```
 
-- Demo: http://nodedemoapi.xyz
+- Demo: http://nodeapidemo.xyz
 - Version: 1.0.0
 - License: MIT
