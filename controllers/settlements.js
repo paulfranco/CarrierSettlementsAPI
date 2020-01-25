@@ -15,8 +15,8 @@ exports.getSettlements = asyncHandler(async (req, res, next) => {
 
     return res.status(200).json({
       success: true,
-      count: courses.length,
-      data: courses
+      count: settlements.length,
+      data: settlements
     });
   } else {
     res.status(200).json(res.advancedResults);
@@ -65,7 +65,7 @@ exports.addSettlement = asyncHandler(async (req, res, next) => {
   if (req.user.role !== 'admin') {
     return next(
       new ErrorResponse(
-        `User ${req.user.id} is not authorized to add a course to carrier ${carrier._id}`,
+        `User ${req.user.id} is not authorized to add a settlement to carrier ${carrier._id}`,
         401
       )
     );
